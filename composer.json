@@ -1,0 +1,23 @@
+{
+  "name": "zmingzhi/database",
+  "description": "数据库组件用于完成数据库、表、记录的管理",
+  "type": "project",
+  "keywords": [
+    "数据库管理"
+  ],
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.4.0",
+    "zmingzhi/config": "~1.0",
+    "zmingzhi/db": "~1.0",
+    "zmingzhi/arr": "~1.0",
+    "zmingzhi/dir": "~1.0"
+  },
+  "autoload": {
+    "files": [],
+    "psr-4": {
+      "zongphp\\database\\": "src"
+    }
+  }
+}
