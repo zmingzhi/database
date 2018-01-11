@@ -1,4 +1,5 @@
 <?php
+
 namespace zongphp\database\build;
 /**
  * 数据迁移基类

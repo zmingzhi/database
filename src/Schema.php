@@ -1,10 +1,12 @@
 <?php
 namespace zongphp\database;
+
 use zongphp\database\build\Base;
 
 /**
  * 数据库操作
  * Class Schema
+ * @package hdphp\schema
  */
 class Schema {
 	//连接
